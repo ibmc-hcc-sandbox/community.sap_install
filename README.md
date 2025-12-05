@@ -8,7 +8,7 @@ This Ansible Collection executes various SAP Software installations and configur
 
 Included roles cover range of tasks:
 - Preparation of Operating system and SAP installation media before installation
-- Installation of SAP Database, either SAP HANA or Oracle Database
+- Installation of SAP Database, either SAP HANA or Oracle Database or Sybase DB
 - Installation of SAP Products, like SAP S4HANA, SAP BW4HANA, SAP Netweaver, SAP Solution Manager and others.
 - Configuration of replication of SAP HANA and High Availability clusters for SAP HANA and SAP Netweaver
 
